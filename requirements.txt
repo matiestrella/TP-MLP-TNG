@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+scikit-learn
+nltk
+optuna
+mlflow
+tensorboard
+matplotlib
+seaborn
